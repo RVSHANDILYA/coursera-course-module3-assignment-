@@ -1,7 +1,7 @@
 # coursera-course-module3-assignment-
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding Assignment, completed.
 Here is what you will need to complete the assignment:
-
+link :https://rvshandilya.github.io/coursera-course-module3-assignment-/
 (If you haven't already) Create a GitHub.com account and a repository that you will use for this class.
 
 (If you haven't already) Follow the Development Setup Video (beginning of Module 1) instructions on how to create a repository and set it up such that you can host and view your finished web pages on GitHub Pages, i.e., GitHub.io domain name. You will need to provide that URL for your peer review.
